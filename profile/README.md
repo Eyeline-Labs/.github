@@ -1,3 +1,15 @@
+<div align="center">
+
+<p align="center">
+    <picture>
+<img src="imgs/logo_EyelineResearch_shorter.png?raw=true" width="512">
+    </picture>
+</p>
+
+![GitHub User's stars](https://img.shields.io/github/stars/Eyeline-Research)
+
+</div>
+
 # Eyeline Research
 
 This is the official website for Eyeline Research, the research division of [Eyeline Studios](https://www.eyelinestudios.com/), powered by **Netflix**, where creativity meets advanced generative AI research to redefine filmmaking, content (re)creation, visual storytelling, and beyond. 
