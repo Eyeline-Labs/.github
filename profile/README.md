@@ -28,3 +28,6 @@ We validate hypotheses through rigorous experimentation, share breakthroughs at 
 
 ## Our team
 Eyeline Research is teamed by researchers and developers who are unafraid to challenge the status quo. We partner with production teams, business stakeholders, and engineering experts to transfer cutting-edge R&D into real-world demonstrations. Our team is constantly growing and we welcome individuals who share our vision for advancing generative AI.
+
+## Contact
+Contact [Ning Yu](https://ningyu1991.github.io/) (ning.yu@scanlinevfx.com), the Lead Research Scientist of Eyeline Research, for business collaborations, academic collaborations, joining us, and other opportunities.
