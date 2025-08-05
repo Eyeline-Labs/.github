@@ -6,7 +6,7 @@
     </picture>
 </p>
 
-![GitHub User's stars](https://img.shields.io/github/stars/Eyeline-Research)
+![GitHub User's stars](https://img.shields.io/github/stars/Eyeline-Labs)
 
 </div>
 
