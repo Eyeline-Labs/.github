@@ -2,7 +2,7 @@
 
 <p align="center">
     <picture>
-<img src="imgs/logo_EyelineResearch_shorter.png?raw=true" width="512">
+<img src="imgs/EYELINE_LOGO_LABS_Black_shortened_Alpha.png?raw=true" width="1920">
     </picture>
 </p>
 
