@@ -10,9 +10,9 @@
 
 </div>
 
-# Eyeline Research
+# Eyeline Labs
 
-This is the official website for Eyeline Research, the research division of [Eyeline Studios](https://www.eyelinestudios.com/) and [ScanlineVFX](https://scanlinevfx.com/), powered by **Netflix**, where creativity meets advanced generative AI research to redefine filmmaking, content (re)creation, visual storytelling, and beyond. 
+This is the official website for Eyeline Labs, the research division of [Eyeline Studios](https://www.eyelinestudios.com/) and [ScanlineVFX](https://scanlinevfx.com/), powered by **Netflix**, where creativity meets advanced generative AI research to redefine filmmaking, content (re)creation, visual storytelling, and beyond. 
   
 ## Our Missions
 ### Revolutionize filmmaking with video generative AI
@@ -27,7 +27,7 @@ We believe that bold visions come from diverse perspectives. Our global communit
 We validate hypotheses through rigorous experimentation, share breakthroughs at top conferences, and contribute thought leadership that shapes our industry’s future.
 
 ## Our team
-Eyeline Research is teamed by researchers and developers who are unafraid to challenge the status quo. We partner with production teams, business stakeholders, and engineering experts to transfer cutting-edge R&D into real-world demonstrations. Our team is constantly growing and we welcome individuals who share our vision for advancing generative AI.
+Eyeline Labs is teamed by researchers and developers who are unafraid to challenge the status quo. We partner with production teams, business stakeholders, and engineering experts to transfer cutting-edge R&D into real-world demonstrations. Our team is constantly growing and we welcome individuals who share our vision for advancing generative AI.
 
 ## Contact
-Contact Jennifer Lao (jennifer.lao@scanlinevfx.com), the manager of Eyeline Research, for inquiries.
+Contact Jennifer Lao (jennifer.lao@scanlinevfx.com), the manager of Eyeline Labs, for inquiries.
