@@ -30,4 +30,4 @@ We validate hypotheses through rigorous experimentation, share breakthroughs at 
 Eyeline Labs is teamed by researchers and developers who are unafraid to challenge the status quo. We partner with production teams, business stakeholders, and engineering experts to transfer cutting-edge R&D into real-world demonstrations. Our team is constantly growing and we welcome individuals who share our vision for advancing generative AI.
 
 ## Contact
-Contact Jennifer Lao (jennifer.lao@scanlinevfx.com), the manager of Eyeline Labs, for inquiries.
+Contact Ning Yu (nyu@netflix.com), the Lead Research Scientist of Eyeline Labs, for inquiries.
